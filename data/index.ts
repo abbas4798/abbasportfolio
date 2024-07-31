@@ -103,6 +103,118 @@ export const SkillData = [
     width: 80,
     height: 80,
   },
+  {
+    name: "Ubantu",
+    Image: "/ubuntu.png",
+    width: 80,
+    height: 80,
+  },
+];
+
+export const SkillDataBottom = [
+  {
+    name: "Html 5",
+    Image: "/html.png",
+    width: 100,
+    height: 100,
+  },
+  {
+    name: "Css",
+    Image: "/css.png",
+    width: 100,
+    height: 100,
+  },
+  {
+    name: "JavaScript",
+    Image: "/js.png",
+    width: 65,
+    height: 65,
+  },
+  {
+    name: "Tailwind Css",
+    Image: "/tailwind.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "React",
+    Image: "/react.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Redux",
+    Image: "/redux.png",
+    width: 80,
+    height: 80,
+  },
+
+  {
+    name: "TypeScript",
+    Image: "/ts.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Next js 13",
+    Image: "/next.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Framer Motion",
+    Image: "/framer.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Graphql",
+    Image: "/graphql.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Node js",
+    Image: "/node-js.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Mongo db",
+    Image: "/mongodb.png",
+    width: 25,
+    height: 25,
+  },
+  {
+    name: " Heroku",
+    Image: "/heroku.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "MUI",
+    Image: "/mui.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Three",
+    Image: "/three.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Boostrap",
+    Image: "/boostrap.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Ubantu",
+    Image: "/ubuntu.png",
+    width: 80,
+    height: 80,
+  },
 ];
 
 export const gridItems = [
@@ -227,7 +339,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p7.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 4,
@@ -235,7 +347,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p8.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 5,
@@ -243,7 +355,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p9.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 6,
@@ -251,7 +363,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p10.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 7,
@@ -259,7 +371,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p11.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 8,
@@ -267,7 +379,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p12.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 9,
@@ -275,7 +387,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p13.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 10,
@@ -283,7 +395,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p14.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 11,
@@ -291,7 +403,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p15.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 12,
@@ -299,7 +411,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p16.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 13,
@@ -307,7 +419,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p17.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 14,
@@ -315,7 +427,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p18.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 15,
@@ -323,7 +435,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p19.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 16,
@@ -331,7 +443,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p20.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 17,
@@ -339,7 +451,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p21.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 18,
@@ -347,7 +459,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p22.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
   {
     id: 19,
@@ -355,7 +467,7 @@ export const portfolioProjects = [
     des: "Demi website for HTML CSS practice.",
     img: "/p23.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://med-care-kohl.vercel.app/",
+    link: " ",
   },
 ];
 
@@ -364,19 +476,19 @@ export const testimonials = [
     quote:
       "Collaborating with Abbas was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "Upwork",
   },
   {
     quote:
       "Collaborating with Abbas was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "Upwork",
   },
   {
     quote:
       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "Director of Sparkai Technologies",
   },
   {
     quote:
@@ -428,21 +540,21 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
+    title: "Frontend Engineer Intern - Multitelesoft",
     desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Associate Frontend Developer",
+    title: "Associate Frontend Developer - SparkAi",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
   {
     id: 4,
-    title: "Freelance Dev Project",
+    title: "Freelance Dev Project -Upwork",
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
@@ -466,28 +578,33 @@ export const socialMedia = [
   },
   {
     id: 2,
-    img: "/twit.svg",
-    url: "https://facebook.com/yourprofile",
-  },
-  {
-    id: 3,
     img: "/link.svg",
     url: "https://www.linkedin.com/in/abbas-muhammad/",
   },
   {
-    id: 4,
+    id: 6,
+    img: "/discord.svg",
+    url: "live:.cid.fad9e78154519d6c",
+  },
+  {
+    id: 7,
+    img: "/wha.svg",
+    url: "live:.cid.fad9e78154519d6c",
+  },
+  {
+    id: 3,
     img: "/dev-icon.svg",
     url: "https://dev.to/abbas4798",
     height: 80,
     width: 50,
   },
   {
-    id: 5,
+    id: 4,
     img: "/dailyDev.png",
     url: "https://app.daily.dev/devabbas",
   },
   {
-    id: 6,
+    id: 5,
     img: "/skype_icon.svg",
     url: "live:.cid.fad9e78154519d6c",
   },

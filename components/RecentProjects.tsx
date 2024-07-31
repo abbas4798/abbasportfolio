@@ -1,8 +1,5 @@
-"use client";
-
 import { FaLocationArrow } from "react-icons/fa6";
 import Link from "next/link";
-
 import { portfolioProjects, professionalProjects } from "@/data";
 import { PinContainer } from "./ui/Pin";
 
@@ -13,10 +10,8 @@ const RecentProjects = () => {
         A small selection of{" "}
         <span className="text-purple">recent projects</span>
       </h1>
-      <h4>
-        Professional <span className="text-purple">Projects</span>
-      </h4>
-      <div className="flex flex-wrap items-center justify-center p-4 gap-8 mt-10 mb-4">
+
+      <div className="flex flex-wrap items-center justify-center p-4 gap-8 mt-10 mb-10">
         {professionalProjects.map((item) => (
           <div
             className="lg:min-h-[32.5rem] h-[25rem] flex items-center justify-center sm:w-96 w-[80vw]"
@@ -80,9 +75,9 @@ const RecentProjects = () => {
         ))}
       </div>
 
-      <h4>
-        Portfolio Projects <span className="text-purple">Projects</span>
-      </h4>
+      <h2 className="heading">
+        Portfolio <span className="text-purple">projects</span>
+      </h2>
       <div className="flex flex-wrap items-center justify-center p-4 gap-8 mt-10">
         {portfolioProjects.map((item) => (
           <div
@@ -100,7 +95,7 @@ const RecentProjects = () => {
                 <img
                   src={item.img}
                   alt="cover"
-                  className="z-10 absolute bottom-0"
+                  className="z-10 absolute bottom-0 h-full"
                 />
               </div>
 

@@ -3,9 +3,9 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import Image from "next/image";
 import { Autoplay } from "swiper/modules";
-import { SkillData } from "@/data";
+import { SkillData, SkillDataBottom } from "@/data";
 
-const Page = () => {
+const Skills = () => {
   return (
     <div
       style={{ backgroundImage: "url(/bg-2.jpg)" }}
@@ -59,7 +59,7 @@ const Page = () => {
           modules={[Autoplay]}
           className="max-w-[80%]"
         >
-          {SkillData.map((skill, index) => (
+          {SkillDataBottom.map((skill, index) => (
             <SwiperSlide key={index}>
               <Image
                 src={skill.Image}
@@ -75,4 +75,4 @@ const Page = () => {
   );
 };
 
-export default Page;
+export default Skills;
