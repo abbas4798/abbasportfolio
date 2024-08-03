@@ -327,7 +327,7 @@ export const portfolioProjects = [
   },
   {
     id: 2,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p6.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -335,7 +335,7 @@ export const portfolioProjects = [
   },
   {
     id: 3,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p7.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -343,7 +343,7 @@ export const portfolioProjects = [
   },
   {
     id: 4,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p8.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -351,7 +351,7 @@ export const portfolioProjects = [
   },
   {
     id: 5,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p9.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -359,7 +359,7 @@ export const portfolioProjects = [
   },
   {
     id: 6,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p10.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -367,7 +367,7 @@ export const portfolioProjects = [
   },
   {
     id: 7,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p11.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -375,7 +375,7 @@ export const portfolioProjects = [
   },
   {
     id: 8,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p12.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -383,7 +383,7 @@ export const portfolioProjects = [
   },
   {
     id: 9,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p13.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -391,7 +391,7 @@ export const portfolioProjects = [
   },
   {
     id: 10,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p14.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -399,7 +399,7 @@ export const portfolioProjects = [
   },
   {
     id: 11,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p15.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -407,7 +407,7 @@ export const portfolioProjects = [
   },
   {
     id: 12,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p16.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -415,7 +415,7 @@ export const portfolioProjects = [
   },
   {
     id: 13,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p17.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -423,7 +423,7 @@ export const portfolioProjects = [
   },
   {
     id: 14,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p18.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -431,7 +431,7 @@ export const portfolioProjects = [
   },
   {
     id: 15,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p19.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -439,7 +439,7 @@ export const portfolioProjects = [
   },
   {
     id: 16,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p20.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -447,7 +447,7 @@ export const portfolioProjects = [
   },
   {
     id: 17,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p21.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -455,7 +455,7 @@ export const portfolioProjects = [
   },
   {
     id: 18,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p22.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -463,7 +463,7 @@ export const portfolioProjects = [
   },
   {
     id: 19,
-    title: "MedCare Website",
+    title: "Portfolio",
     des: "Demi website for HTML CSS practice.",
     img: "/p23.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -471,71 +471,71 @@ export const portfolioProjects = [
   },
 ];
 
-export const testimonials = [
-  {
-    quote:
-      "Collaborating with Abbas was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Upwork",
-  },
-  {
-    quote:
-      "Collaborating with Abbas was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Upwork",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of Sparkai Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-];
+// export const testimonials = [
+//   {
+//     quote:
+//       "Collaborating with Abbas was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+//     name: "Michael Johnson",
+//     title: "Upwork",
+//   },
+//   {
+//     quote:
+//       "Collaborating with Abbas was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+//     name: "Michael Johnson",
+//     title: "Upwork",
+//   },
+//   {
+//     quote:
+//       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+//     name: "Michael Johnson",
+//     title: "Director of Sparkai Technologies",
+//   },
+//   {
+//     quote:
+//       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+//     name: "Michael Johnson",
+//     title: "Director of AlphaStream Technologies",
+//   },
+//   {
+//     quote:
+//       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+//     name: "Michael Johnson",
+//     title: "Director of AlphaStream Technologies",
+//   },
+// ];
 
-export const companies = [
-  {
-    id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
-  },
-];
+// export const companies = [
+//   {
+//     id: 1,
+//     name: "cloudinary",
+//     img: "/cloud.svg",
+//     nameImg: "/cloudName.svg",
+//   },
+//   {
+//     id: 2,
+//     name: "appwrite",
+//     img: "/app.svg",
+//     nameImg: "/appName.svg",
+//   },
+//   {
+//     id: 3,
+//     name: "HOSTINGER",
+//     img: "/host.svg",
+//     nameImg: "/hostName.svg",
+//   },
+//   {
+//     id: 4,
+//     name: "stream",
+//     img: "/s.svg",
+//     nameImg: "/streamName.svg",
+//   },
+//   {
+//     id: 5,
+//     name: "docker.",
+//     img: "/dock.svg",
+//     nameImg: "/dockerName.svg",
+//   },
+// ];
 
 export const workExperience = [
   {
@@ -561,7 +561,7 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: "Mobile App Dev - JSM Tech",
+    title: "React Native Developer",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
